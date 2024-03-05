@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Embed pada HTML</title>
+</head>
+<body>
+
+    <?php
+   
+    print "<pre>";
+    print "<center>";
+    print "<font size=14 color='red'><b>BIODATA</b></font><br>";
+    print "<font size=12 color='blue'> Nama : <b>Faturrahman</b></font><br>";
+    print "<font size=12 color='blue'> Email : Ftrahman29@gmail.com</font><br>";
+    print "<font size=12 color='blue'> Jurusan : Teknik Informatika</font><br>";
+    print "<font size=12 color='blue'> Hobby : Traveling</font><br>";
+    print "</center>"; 
+    print "</pre>";
+    ?>
+</body>
+</html>
