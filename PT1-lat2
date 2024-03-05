@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan Pertama Kali Belajar PHP</title>
+</head>
+<body>
+    <?php
+    $pesan = "Halo! belajar php mungkin mudah dimengerti dan mudah dipelajari.";
+    ?>
+    
+    <div>
+        <h1>Selamat Datang, Guys!</h1>
+        <p><?php echo $pesan; ?></p>
+    </div>
+</body>
+</html>
